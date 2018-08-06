@@ -1,1 +1,1 @@
-# a react wechat
+# a react project wechat
